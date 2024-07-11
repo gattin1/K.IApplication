@@ -53,3 +53,5 @@ Xでの発信
 カレンダーはRailsのgemのSimpleCalender、通知機能はLINE Messaging API SDK for Rubyを使用予定です。
 
 ■ 画面遷移図のURL: https://www.figma.com/board/lqkywIClb8mfvsP5eTs4xs/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=smG9N0FZBI1E7knZ-0
+
+■ ER図: https://drive.google.com/file/d/1FXJ_yxbqMocvqQmADtaqO3yR4pnKfRQA/view?usp=sharing
